@@ -1,0 +1,6 @@
+qiskit==0.43.1
+cirq-core==1.1.0
+pyquil==3.5.4
+projectq==0.8.0
+
+
